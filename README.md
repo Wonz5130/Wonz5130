@@ -2,9 +2,9 @@
 
 ### Here is Wonz 👋
 
-- INFJ
+- INFJ -> INTJ
 - 🎸 Live Music Observing「[Artist](https://wonz.wang/live/)」
-- 🔭 I live in Beijing and work as a [Software Engineer 👨‍💻](), [![img](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://github.com/Wonz5130).
+- 🔭 I lived in Beijing and work as a [Software Engineer 👨‍💻](), [![img](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DWonz5130)](https://github.com/Wonz5130).
 - 😎 I am also a [Blogger 📝](https://wonz.wang/), a [Photographer 📸](https://www.instagram.com/wonz_photo/), a Marathoner🏃.
 - ✒️ I like thinking and writing. My WeChat Official Account is「Wonz」.
 - 🎨 I love sharing my life [here](https://www.instagram.com/wonz_wang/).
